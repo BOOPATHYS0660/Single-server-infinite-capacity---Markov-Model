@@ -25,6 +25,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
  
 ## Program:
+```
 DEVELOPRD BY : S.Prema Latha
 REGISTER NO : 212222230112
 
@@ -52,7 +53,7 @@ if (lam <  mu):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("---------------------------------------------------------------")
-
+```
 ## Output :
 ![image](https://github.com/premalatha-sureshbabu/Single-server-infinite-capacity---Markov-Model/assets/120620842/7c7f2f1f-15be-48cd-a12a-428160add812)
 
